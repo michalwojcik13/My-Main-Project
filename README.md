@@ -3,7 +3,7 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 
 ---
 
-| Project | Scores |
+| **Project** | **Scores** |
 |---|---|
 | 1. Breast Cancer Classification using Computer Vision in Keras | **95% F1_score** |
 | 2. Used Cars Price Recommendation Engine built on Spark Streaming in Databricks | **<10% Error** |
@@ -12,19 +12,30 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 | 5. Human Obesity Classification using Boosting Classifier in Python | **95% F1_score** |
 
 ---
-## Here are detailed summaries of all of the projects. Full reports are inside the folders.
 
-**1. Breast Cancer Classification using Computer Vision in Keras**\
- XYZ
+### **1. Breast Cancer Classification using Computer Vision in Keras** 
+[dataset #1](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis) \
+ \
+ This is a project that we loved
 
-**2. Used Cars Price Recommendation Engine built on Spark Streaming in Databricks**\
-XYZ
+### **2. Used Cars Price Recommendation Engine built on Spark Streaming in Databricks** 
+[dataset #2](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) \
+ \
+ This is a project that we loved
 
-**3. Customer Credit Score Classification using Random Forest in R**\
-XYZ
+### **3. Customer Credit Score Classification using Random Forest in R** 
+[dataset #3](https://www.kaggle.com/datasets/parisrohan/credit-score-classification) \
+ \
+ This is a project that we loved
 
-**4. Text Sentiment Analysis and Topic Classification of Restaurant Reviews in Python**\
-XYZ
+### **4. Text Sentiment Analysis and Topic Classification of Restaurant Reviews in Python** 
+dataset #4 - data available inside the folder \
+ \
+ This is a project that we loved
 
-**5. Human Obesity Classification using Boosting Classifier in Python**\
+### **5. Human Obesity Classification using Boosting Classifier in Python** 
+dataset #5 - data available inside the folder \
+ \
+ This is a project that we loved\
+\
 XYZ
