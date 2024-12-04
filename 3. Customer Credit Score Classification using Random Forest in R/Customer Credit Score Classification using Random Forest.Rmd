@@ -1,4 +1,8 @@
-# Customer Credit Score Classification using Random Forest in R
+---
+title: "Customer Credit Score Classification using Random Forest in R"
+output: rmarkdown::github_document
+date: "2024-13-06"
+---
 
 ```{r}
 # Cleaning the environment
