@@ -34,10 +34,6 @@ dataset #4 - data available inside the folder \
  This is a project that we loved
 
 ### **5. Human Obesity Classification using Boosting Classifier in Python** 
+dataset #5 - data available inside the folder \
 \
 This project focused on classifying the stages of human obesity based on a variety of features, including weight, height, age, gender, and lifestyle-related factors. To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores, with performance evaluated using Stratified K-Fold Cross-Validation.
-
- 
- This is a project that we loved\
-\
-XYZ
