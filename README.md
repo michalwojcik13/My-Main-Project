@@ -16,7 +16,7 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 ### **1. Breast Cancer Classification using Computer Vision in Keras** 
 [dataset #1](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis) \
  \
- This is a project that we loved
+We developed a deep learning model to assist doctors in classifying different types of breast cancer using microscopic images. By utilizing the DenseNet121 neural network and fine-tuning it with our specific dataset, we enhanced the model's accuracy in identifying cancerous cells. To address limited data and computational resources, we designed a custom real-time dataflow connected to Google Drive that automatically augments images based on predefined cancer classes, effectively rebalancing the dataset and optimizing the training process to run efficiently on Google Colab. Our model achieved a 99% F1-score for distinguishing between benign and malignant cancers and a 95% F1-score for more detailed classifications. This tool can support medical professionals in making more accurate and timely diagnoses, potentially improving patient care.
 
 ### **2. Used Cars Price Recommendation Engine built on Spark Streaming in Databricks** 
 [dataset #2](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) \
