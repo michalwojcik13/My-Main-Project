@@ -5,7 +5,7 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 
 | **Project** | **Scores** |
 |---|---|
-| 1. Breast Cancer Classification using Computer Vision in Keras | **99% F1_score, 95% F1_score** |
+| 1. Breast Cancer Classification using Computer Vision in Keras | **99% F1_score, 94% F1_score** |
 | 2. Real-Time Car Price Recommendation Engine built on Spark Streaming in Databricks | **2350$ Mean Average Error** |
 | 3. Customer Credit Score Classification using Random Forest in R | **98% Multivariate Area Under Curve** |
 | 4. Text Sentiment Analysis and Topic Classification of Restaurant Reviews in Python | **85% Correlation, 61% F1_score** |
@@ -16,7 +16,7 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 ### **1. Breast Cancer Classification using Computer Vision in Keras** 
 [dataset #1](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis) \
  \
-We developed a deep learning model to assist doctors in classifying different types of breast cancer using microscopic images. By utilizing the DenseNet121 neural network and fine-tuning it with our specific dataset, we enhanced the model's accuracy in identifying cancerous cells. To address limited data and computational resources, we designed a custom real-time dataflow connected to Google Drive that automatically augments images based on predefined cancer classes, effectively rebalancing the dataset and optimizing the training process to run efficiently on Google Colab. Our model achieved a 99% F1-score for distinguishing between benign and malignant cancers and a 95% F1-score for more detailed classifications. This tool can support medical professionals in making more accurate and timely diagnoses, potentially improving patient care.
+We developed a deep learning model to assist doctors in classifying different types of breast cancer using microscopic images. By utilizing the DenseNet121 neural network and fine-tuning it with our specific dataset, we enhanced the model's accuracy in identifying cancerous cells. To address limited data and computational resources, we designed a custom real-time dataflow connected to Google Drive that automatically augments images based on predefined cancer classes, effectively rebalancing the dataset and optimizing the training process to run efficiently on Google Colab. Our model achieved a 99% F1-score for distinguishing between benign and malignant cancers and a 94% F1-score for more detailed classifications. This tool can support medical professionals in making more accurate and timely diagnoses, potentially improving patient care.
 
 ### **2. Real-Time Car Price Recommendation Engine built on Spark Streaming in Databricks** 
 [dataset #2](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) \
@@ -34,7 +34,9 @@ This project aimed to develop a classification model to predict the credit score
 ### **4. Text Sentiment Analysis and Topic Classification of Restaurant Reviews in Python** 
 dataset #4 - data available inside the folder \
  \
- This is a project that we loved
+\
+\
+\
 
 ### **5. Human Obesity Classification using Boosting Classifier in Python** 
 dataset #5 - data available inside the folder \
