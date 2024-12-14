@@ -5,7 +5,7 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 
 | **Project** | **Scores** |
 |---|---|
-| 1. Breast Cancer Classification using Computer Vision in Keras | **95% F1_score** |
+| 1. Breast Cancer Classification using Computer Vision in Keras | **99% F1_score, 95% F1_score** |
 | 2. Real-Time Car Price Recommendation Engine built on Spark Streaming in Databricks | **2350$ Mean Average Error** |
 | 3. Customer Credit Score Classification using Random Forest in R | **98% Multivariate Area Under Curve** |
 | 4. Text Sentiment Analysis and Topic Classification of Restaurant Reviews in Python | **85% Correlation, 61% F1_score** |
