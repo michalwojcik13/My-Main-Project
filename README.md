@@ -21,7 +21,10 @@ This repository contains a selection of my best and most advanced ML and Deep Le
 ### **2. Used Cars Price Recommendation Engine built on Spark Streaming in Databricks** 
 [dataset #2](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) \
  \
- This is a project that we loved
+Created a real-time, scalable system that can instantly determine the value of a used car by analyzing large amounts of market data from the past. This tool examines factors like the car’s model, age, mileage, condition, and region that the sales took place to provide accurate price estimates in real time. The model was trained on 180k of car listings, ensuring that the valuations are both timely and reliable. The system is fully designed on Spark so it handles and adapts to growing data, making it scalable for future needs. Model has been developped using Spark's Pipeline API, meaning after some small tweaks it can be easily saved and deployed on a processing cluster. It offers valuable insights for buyers and sellers, making it an excellent asset for companies in the automotive market. \
+\
+Full "Project Summary" file is available in a designated folder 
+
 
 ### **3. Customer Credit Score Classification using Random Forest in R** 
 [dataset #3](https://www.kaggle.com/datasets/parisrohan/credit-score-classification) \
